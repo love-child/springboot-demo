@@ -8,10 +8,10 @@
 		<version>2.1.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.pumpkin</groupId>
-	<artifactId>pumpkin-mall</artifactId>
+	<groupId>com.lovebaby</groupId>
+	<artifactId>love-child</artifactId>
 	<version>${profiles.active}-${profiles.version}</version>
-	<name>pumpkin-mall</name>
+	<name>love-child</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
